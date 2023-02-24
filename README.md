@@ -1,8 +1,6 @@
 # weather_app
 
-screenshot                                   |  animation
-:-------------------------------------------:|:---------------------------------------------:
-![](https://i.ibb.co/fvM1yg3/weather-app.jpg)  |  ![](https://i.ibb.co/Q7WB0KN/animation.gif)
+![](https://i.ibb.co/fvM1yg3/weather-app.jpg)
 
 
 ## App Overview
